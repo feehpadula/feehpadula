@@ -1,4 +1,4 @@
-# Hi, I'm Felipe Padula 👋
+# Hi, I'm Felipe Padula 
 
 Frontend developer based in São Paulo, Brazil, with a background in Product Design. I bridge the gap between design and engineering — turning complex discussions into fast, reliable, and pixel-perfect interfaces.
 
