@@ -8,7 +8,7 @@ Over the years I've worked at **Symplicity**, **MicroPower**, and **Studio ESP**
 
 ---
 
-### 🛠️ Tech stack
+### Tech stack
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs)
@@ -22,7 +22,7 @@ Over the years I've worked at **Symplicity**, **MicroPower**, and **Studio ESP**
 
 ---
 
-### 🏢 Companies I've built for
+### Companies I've built for
 
 | Company | Project | Stack |
 |---------|---------|-------|
@@ -33,8 +33,7 @@ Over the years I've worked at **Symplicity**, **MicroPower**, and **Studio ESP**
 
 ---
 
-### 📬 Find me
+### Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-padula)
 [![Website](https://img.shields.io/badge/feehpadula.com-000?style=flat-square&logo=google-chrome&logoColor=white)](https://feehpadula.com/en)
-[![Email](https://img.shields.io/badge/feeh.padula@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:feeh.padula@gmail.com)
