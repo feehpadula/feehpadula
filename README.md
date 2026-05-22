@@ -30,6 +30,10 @@ Over the years I've worked at **Symplicity**, **MicroPower**, and **Studio ESP**
 | **IBM** | Live Store | PlayCanvas WebGL |
 | **Pearson** | Brands | PHP, JS, MySQL, Nginx |
 | **Goodyear** | Mobile App | React Native |
+| **Symplicity** | CSM | PHP, Angular, JS, WCAG, WAI-ARIA |
+| **Symplicity** | Oscar | PHP, JS, WCAG, WAI-ARIA |
+| **MicroPower** | Corporate Website | WordPress, PHP, WCAG, WAI-ARIA |
+| **MicroPower** | Intranet | PHP, JS |
 
 ---
 
