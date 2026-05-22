@@ -4,7 +4,7 @@ Frontend developer based in São Paulo, Brazil, with a background in Product Des
 
 I care deeply about building products that are not just functional and performant, but also inclusive. Accessibility (WCAG) is a core part of how I work, not an afterthought.
 
-Over the years I've worked at **Symplicity**, **MicroPower**, and **Studio ESP**. I've also delivered projects for clients like IBM, Pearson, and Goodyear, ranging from interactive 3D experiences to marketing websites and mobile apps. I also run **[feehpadula.com](https://feehpadula.com/en)**, a design-led frontend studio focused on clean code and consistent results.
+Over the years I've worked at **Symplicity**, **MicroPower**, and **Studio ESP**. I've also delivered projects for clients like **IBM**, **Pearson**, and **Goodyear**, ranging from interactive 3D experiences to marketing websites and mobile apps. I also run **[feehpadula.com](https://feehpadula.com/en)**, a design-led frontend studio focused on clean code and consistent results.
 
 ---
 
