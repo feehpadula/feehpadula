@@ -33,7 +33,7 @@ Over the years I've worked at **Symplicity**, **MicroPower**, and **Studio ESP**
 | **Symplicity** | CSM | PHP, Angular, JS, WCAG, WAI-ARIA |
 | **Symplicity** | Oscar | PHP, JS, WCAG, WAI-ARIA |
 | **MicroPower** | Corporate Website | WordPress, PHP, WCAG, WAI-ARIA |
-| **MicroPower** | Intranet | PHP, JS |
+| **MicroPower** | Internal Portal | PHP, JS |
 
 ---
 
