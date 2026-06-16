@@ -1,6 +1,6 @@
 # Hi, I'm Felipe Padula 
 
-Frontend developer based in São Paulo, Brazil, with a background in Product Design and experience building modern systems and applications using **PHP**, **Angular**, and **React** — including AI-powered products and integrations.
+Frontend developer based in São Paulo, Brazil, with a background in Product Design and experience building modern systems and applications using **PHP**, **Angular**, and **React** , including **AI agents** and integrations.
 
 I care deeply about creating digital products that are not just functional and high-performing, but also inclusive and accessible to everyone. Accessibility **(WCAG)** is a core part of how I work, not an afterthought.
 
